@@ -14,4 +14,4 @@ Python notebooks:
 * Build GPT basic architecture:
 * -- numpy version: numpy_gpt2_gpt3_basic_architecture.ipynb
 * -- Pytorch version: numpy_gpt2_gpt3_basic_architecture.ipynb
-* --Tensorflow version: tensorflow_gpt2_gpt3_basic_architecture.ipynb
+* -- Tensorflow version: tensorflow_gpt2_gpt3_basic_architecture.ipynb

@@ -28,10 +28,5 @@ Papers will be discussed:
 * Zhang S, et al. BiomedCLIP: a multimodal biomedical foundation model pretrained from fifteen million scientific image-text pairs. 2023. URL: https://arxiv.org/abs/2303.00915
 
 * Python notebooks:
-* Train a CLIP model using chest X-ray image and text pairs: clip_chest_xray.ipynb
-* Use the BiomedCLIP backbone for downstream chest X-ray classification: biomedclip_chest_xray_mlp.ipynb
-* Zhang S, et al. BiomedCLIP: a multimodal biomedical foundation model pretrained from fifteen million scientific image-text pairs. 2023. URL: https://arxiv.org/abs/2303.00915
-
-* Python notebooks:
-* Train a CLIP model using chest X-ray image and text pairs: clip_chest_xray.ipynb
-* Use the BiomedCLIP backbone for downstream chest X-ray classification: biomedclip_chest_xray_mlp.ipynb
+* -- Train a CLIP model using chest X-ray image and text pairs: clip_chest_xray.ipynb
+* -- Use the BiomedCLIP backbone for downstream chest X-ray classification: biomedclip_chest_xray_mlp.ipynb

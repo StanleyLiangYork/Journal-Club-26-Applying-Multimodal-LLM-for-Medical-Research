@@ -17,7 +17,7 @@ Papers will be discussed:
 * -- numpy version: numpy_gpt2_gpt3_basic_architecture.ipynb
 * -- Pytorch version: numpy_gpt2_gpt3_basic_architecture.ipynb
 * -- Tensorflow version: tensorflow_gpt2_gpt3_basic_architecture.ipynb
-
+<p></p>
 **Section 2**: CLIP and Biomedical Multimodal Foundation Models <p>
 **June 25 (Thu): 2PM – 3PM** <p>
 This session introduces the idea of Contrastive Language-Image Pre-training (CLIP), biomedical language model pre-training with PubMedBERT, and the extension of CLIP-style multimodal learning to biomedical image-text pairs using BiomedCLIP.

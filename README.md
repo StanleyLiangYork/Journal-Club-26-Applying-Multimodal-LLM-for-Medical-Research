@@ -1,8 +1,8 @@
 # Journal-Club-26-Applying-Multimodal-LLM-for-Medical-Research
 2026 NIH Journal Discussion Club
 
-**Section 1**: GPT and Attention Mechanism
-**June 11 (Thu): 2PM – 3PM**
+**Section 1**: GPT and Attention Mechanism <p>
+**June 11 (Thu): 2PM – 3PM**<p>
 This session introduces the foundations of Generative Pre-trained Transformers (GPT), the attention mechanism, and the current technology. 
 Papers will be discussed: 
 * Vaswani A, et al. Attention is all you need. In: Advances in Neural Information Processing Systems (NIPS 2017); 2017. URL: https://arxiv.org/abs/1706.03762
@@ -18,8 +18,8 @@ Papers will be discussed:
 * -- Pytorch version: numpy_gpt2_gpt3_basic_architecture.ipynb
 * -- Tensorflow version: tensorflow_gpt2_gpt3_basic_architecture.ipynb
 
-**Section 2**: CLIP and Biomedical Multimodal Foundation Models
-**June 25 (Thu): 2PM – 3PM**
+**Section 2**: CLIP and Biomedical Multimodal Foundation Models <p>
+**June 25 (Thu): 2PM – 3PM** <p>
 This session introduces the idea of Contrastive Language-Image Pre-training (CLIP), biomedical language model pre-training with PubMedBERT, and the extension of CLIP-style multimodal learning to biomedical image-text pairs using BiomedCLIP.
 Papers will be discussed:
 * Radford A, et al. Learning transferable visual models from natural language supervision. In: International Conference on Machine Learning (ICML 2021); 2021. URL: https://arxiv.org/abs/2103.00020

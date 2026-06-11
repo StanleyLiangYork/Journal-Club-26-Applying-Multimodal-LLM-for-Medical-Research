@@ -19,11 +19,16 @@ Papers will be discussed:
 * -- Tensorflow version: tensorflow_gpt2_gpt3_basic_architecture.ipynb
 
 Section 2: CLIP and Biomedical Multimodal Foundation Models
-TBD
+June 25 (Thu): 2PM – 3PM
 This session introduces the idea of Contrastive Language-Image Pre-training (CLIP), biomedical language model pre-training with PubMedBERT, and the extension of CLIP-style multimodal learning to biomedical image-text pairs using BiomedCLIP.
 Papers will be discussed:
 * Radford A, et al. Learning transferable visual models from natural language supervision. In: International Conference on Machine Learning (ICML 2021); 2021. URL: https://arxiv.org/abs/2103.00020
 * Gu Y, et al. Domain-specific language model pretraining for biomedical natural language processing. ACM Transactions on Computing for Healthcare. 2021. URL: https://arxiv.org/abs/2007.15779
+* Zhang S, et al. BiomedCLIP: a multimodal biomedical foundation model pretrained from fifteen million scientific image-text pairs. 2023. URL: https://arxiv.org/abs/2303.00915
+
+* Python notebooks:
+* Train a CLIP model using chest X-ray image and text pairs: clip_chest_xray.ipynb
+* Use the BiomedCLIP backbone for downstream chest X-ray classification: biomedclip_chest_xray_mlp.ipynb
 * Zhang S, et al. BiomedCLIP: a multimodal biomedical foundation model pretrained from fifteen million scientific image-text pairs. 2023. URL: https://arxiv.org/abs/2303.00915
 
 * Python notebooks:

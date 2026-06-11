@@ -1,7 +1,7 @@
 # Journal-Club-26-Applying-Multimodal-LLM-for-Medical-Research
 2026 NIH Journal Discussion Club
 
-Section 1: GPT and Attention Mechanism
+#Section 1#: GPT and Attention Mechanism
 June 11 (Thu): 2PM – 3PM
 This session introduces the foundations of Generative Pre-trained Transformers (GPT), the attention mechanism, and the current technology. 
 Papers will be discussed: 
@@ -18,7 +18,7 @@ Papers will be discussed:
 * -- Pytorch version: numpy_gpt2_gpt3_basic_architecture.ipynb
 * -- Tensorflow version: tensorflow_gpt2_gpt3_basic_architecture.ipynb
 
-Section 2: CLIP and Biomedical Multimodal Foundation Models
+#Section 2#: CLIP and Biomedical Multimodal Foundation Models
 June 25 (Thu): 2PM – 3PM
 This session introduces the idea of Contrastive Language-Image Pre-training (CLIP), biomedical language model pre-training with PubMedBERT, and the extension of CLIP-style multimodal learning to biomedical image-text pairs using BiomedCLIP.
 Papers will be discussed:

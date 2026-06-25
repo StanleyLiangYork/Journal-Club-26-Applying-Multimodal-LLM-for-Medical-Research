@@ -32,9 +32,9 @@ Papers will be discussed:
 * -- Use the BiomedCLIP backbone for downstream chest X-ray classification: biomedclip_chest_xray_mlp.ipynb
 
 
-**Section 3**: Retrieval – Grounding LLMs with External Knowledge
+**Section 3**: Retrieval – Grounding LLMs with External Knowledge <p>
 **July 9 (Thu): 2PM – 3PM** <p>
-This session explores retrieval-based methods that connect foundation models with external knowledge sources. Building upon the shared embedding spaces introduced in CLIP and BiomedCLIP, we examine how vector retrieval and retrieval-augmented generation (RAG) enable AI systems to access relevant evidence, improve factual accuracy, and reduce hallucinations.
+This session explores retrieval-based methods that connect foundation models with external knowledge sources. Building upon the shared embedding spaces introduced in CLIP and BiomedCLIP, we examine how vector retrieval and retrieval-augmented generation (RAG) enable AI systems to access relevant evidence, improve factual accuracy, and reduce hallucinations. <p>
 Papers will be discussed:
 * Lewis P, et al. Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks. Advances in neural information processing systems. 2020. URL: https://arxiv.org/abs/2005.11401
 * Johnson J, et al. Billion-scale similarity search with GPUs. IEEE transactions on big data. 2019. URL: https://arxiv.org/abs/1702.08734

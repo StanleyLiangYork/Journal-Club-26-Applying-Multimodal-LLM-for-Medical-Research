@@ -40,3 +40,6 @@ Papers will be discussed:
 * Johnson J, et al. Billion-scale similarity search with GPUs. IEEE transactions on big data. 2019. URL: https://arxiv.org/abs/1702.08734
 * Manakul P, et al. Selfcheckgpt: Zero-resource black-box hallucination detection for generative large language models. In Proceedings of the 2023 conference on empirical methods in natural language processing. 2023. URL: https://arxiv.org/abs/2303.08896
 
+* Python notebooks:
+* -- a simple retrieval-augmented generation (RAG) system that answers medical questions by retrieving relevant passages from the MedQuAD dataset: medquad_rag.ipynb
+

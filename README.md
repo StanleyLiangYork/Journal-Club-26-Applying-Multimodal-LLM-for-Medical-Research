@@ -42,4 +42,5 @@ Papers will be discussed:
 
 * Python notebooks:
 * -- a simple retrieval-augmented generation (RAG) system that answers medical questions by retrieving relevant passages from the MedQuAD dataset: medquad_rag.ipynb
+* -- detects hallucinations in the MedQuAD RAG's answers by generating multiple sampled responses and scoring each sentence's consistency across multiple metrics (BERTScore, n-gram, BLEU, and ROUGE-L): selfcheckgpt_medquad.ipynb
 

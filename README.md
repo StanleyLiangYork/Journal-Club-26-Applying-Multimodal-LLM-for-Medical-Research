@@ -44,3 +44,6 @@ Papers will be discussed:
 * -- a simple retrieval-augmented generation (RAG) system that answers medical questions by retrieving relevant passages from the MedQuAD dataset: medquad_rag.ipynb
 * -- detects hallucinations in the MedQuAD RAG's answers by generating multiple sampled responses and scoring each sentence's consistency across multiple metrics (BERTScore, n-gram, BLEU, and ROUGE-L): selfcheckgpt_medquad.ipynb
 
+**Section 4**: Visual-Language Model (VLM) – Understanding Image and Text<p>
+**July 23 (Thu): 2PM – 3PM** <p>
+This session moves beyond image–text retrieval (Section 2) to generative vision–language models (VLMs): systems that receive an image and text prompt, then produce a text response. The emphasis is not on using a model as a diagnostician. It is on understanding how image information reaches an LLM, how clinical context changes an answer, and how to evaluate whether a generated claim is supported by the image. <p>

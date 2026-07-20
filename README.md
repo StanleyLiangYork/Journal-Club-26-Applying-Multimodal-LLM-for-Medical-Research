@@ -52,3 +52,7 @@ Papers will be discussed:
 * Sellergren A. et al. MedGemma 1.5 Technical Report. 2026. URL: https://arxiv.org/abs/2604.05081
 * Bannur, S. et al. MAIRA-2: Grounded Radiology Report Generation. 2024. URL: https://arxiv.org/abs/2406.04449
 * Lu, M. Y. et al. A multimodal generative AI copilot for human pathology. 2024. Nature, 634, 466–473. URL: https://www.nature.com/articles/s41586-024-07618-3
+
+* Python notebooks:
+* -- a demonstration of using MedGemma 1.5 4B model to generate chest X-ray reports by text-prompt and image input pairs: medgemma_report_generation.ipynb
+* -- a demonstration of using general-purpose vision-language model Qwen3.5 4B to generate chest X-ray reports by text-prompt and image input pairs: qwen35_chest_xray_report_generation.ipynb

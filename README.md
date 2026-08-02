@@ -56,3 +56,14 @@ Papers will be discussed:
 * Python notebooks:
 * -- a demonstration of using MedGemma 1.5 4B model to generate chest X-ray reports by text-prompt and image input pairs: medgemma_report_generation.ipynb
 * -- a demonstration of using general-purpose vision-language model Qwen3.5 4B to generate chest X-ray reports by text-prompt and image input pairs: qwen35_chest_xray_report_generation.ipynb
+
+
+**Section 5**: Fine-tuning LLMs for Medical Knowledge<p>
+**August 6 (Thu): 2PM – 3PM** <p>
+General-purpose LLMs already encode a surprising amount of medical knowledge, but they are not built for clinical use. This final session asks a deceptively simple question: does teaching an LLM medicine actually make it better at medicine? <p>
+We begin with the mechanics — how parameter-efficient methods like LoRA and instruction tuning adapt a general model to biomedical tasks without retraining billions of parameters. We then confront a growing body of evidence that domain fine-tuning can degrade performance on unseen clinical tasks and even increase hallucination, raising the question of whether retrieval augmentation is the better path to clinical adaptation. Finally, we turn to evaluation: accuracy alone is a poor proxy for clinical safety, and we examine frameworks that measure hallucination and omission rates as clinicians would judge them. <p>
+The goal of this session is not to settle the debate but to understand what each side is measuring, and why "better" is so difficult to define in medicine. <p>
+Papers will be discussed:
+* Tran H. et al. BioInstruct: instruction tuning of large language models for biomedical natural language processing. J Am Med Inform Assoc. 2024;31(9):1821–1832. URL: https://pubmed.ncbi.nlm.nih.gov/38833265/
+* Dorfner F.J. et al. Evaluating the effectiveness of biomedical fine-tuning for large language models on clinical tasks. J Am Med Inform Assoc. 2025;32(6):1015–1024. URL: https://pubmed.ncbi.nlm.nih.gov/40190132/
+* Asgari E. et al. A framework to assess clinical safety and hallucination rates of LLMs for medical text summarisation. npj Digit Med. 2025;8:274. URL: https://pubmed.ncbi.nlm.nih.gov/40360677/

@@ -67,3 +67,7 @@ Papers will be discussed:
 * Tran H. et al. BioInstruct: instruction tuning of large language models for biomedical natural language processing. J Am Med Inform Assoc. 2024;31(9):1821–1832. URL: https://pubmed.ncbi.nlm.nih.gov/38833265/
 * Dorfner F.J. et al. Evaluating the effectiveness of biomedical fine-tuning for large language models on clinical tasks. J Am Med Inform Assoc. 2025;32(6):1015–1024. URL: https://pubmed.ncbi.nlm.nih.gov/40190132/
 * Asgari E. et al. A framework to assess clinical safety and hallucination rates of LLMs for medical text summarisation. npj Digit Med. 2025;8:274. URL: https://pubmed.ncbi.nlm.nih.gov/40360677/
+
+* Python notebooks:
+*  -- a demonstration of using Qwen-3.5 to generate QA pairs and to form a harmony dataset for LLM LoRA fine-tuning: qwen35_harmony_qa_dataset.ipynb
+*  -- a demonstration of fine-tuning a Qwen-3.5 LoRA on a harmony QA dataset: qwen35_harmony_qa_lora_finetuning_colab.ipynb
